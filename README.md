@@ -7,6 +7,7 @@ sandbox. The library is written in vanilla-js and has no dependencies.
 ### Important
 This fork of the "Jailed" library is especially optimised for web
 development, and consequently have dropped all node support.
+Specifically, this is adapted for use in [Osmium](https://github.com/DarthCadeus/Osmium).
 
 With Jailed you can:
 

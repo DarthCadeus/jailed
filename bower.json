@@ -3,14 +3,14 @@
   "version": "0.3.1",
   "homepage": "https://github.com/asvd/jailed",
   "authors": [
-    "Dmitry Prokashev <heliosframework@gmail.com>"
+    "Dmitry Prokashev <heliosframework@gmail.com>",
+    "Bingdogn Li <lbdro2017@yandex.com>"
   ],
   "description": "execute untrusted code in a sandbox with custom permissions",
   "main": "jailed.js",
   "moduleType": [
     "amd",
-    "globals",
-    "node"
+    "globals"
   ],
   "keywords": [
     "jailed",
@@ -20,8 +20,7 @@
     "user-submitted-code",
     "web-worker",
     "iframe",
-    "restricted",
-    "subprocess"
+    "restricted"
   ],
   "license": "MIT",
   "ignore": [
